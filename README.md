@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Currently a full-stack software engineer at Scania, where I blend my expertise in Java, Spring Boot, HTML, CSS, AngularJS, and AWS to build robust and scalable applications.</h2>
+<h2 align="center">Currently a full-stack software engineer, where I blend my expertise in Java, Spring Boot, HTML, CSS, AngularJS, and AWS to build robust and scalable applications.</h2>
 
 ###
 <div align="center">
